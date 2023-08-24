@@ -12,7 +12,7 @@ Link to website: https://ren3546.github.io/Module-1/
 
 This website can be used to find info about the specific strategies for growing business. The navigation bar has links that will take you directly to the paragraphs with those information.  
 ![Navigation Bar](./assets/images/Horiseon-Digital%20Marketing%20Solutions%201.png?raw=true)
-![Information] (./assets/images/Horiseon-Digital%20Marketing%20Solutions%202.png?raw=true)
+![Information](./assets/images/Horiseon-Digital%20Marketing%20Solutions%202.png?raw=true)
 
 ## Credits
 
